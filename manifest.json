@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Mubi2boxd - Exporting Data by od3zza",
+  "name": "Mubi2boxd - Exporting Data by od3zza", // Buy me a pizza 🍕 https://ko-fi.com/od3zza
   "version": "1.0",
   "description": "Export your stuffs from MUBI to Letterboxd 💾",
 "author": "od3zza",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting"], // Request permission to access the active tab
   "host_permissions": ["https://mubi.com/*"],
   "action": {
     "default_popup": "popup.html",
